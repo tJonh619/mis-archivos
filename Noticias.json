@@ -205,7 +205,7 @@
             "keywords": "Mammad Bhai, Veteran Actor, Vineet Kumar, National School of Drama, Hindi cinema, Telugu cinema, Tamil cinema, Kannada cinema, Bhojpuri cinema, Television, Television Shows. Hollywood films, Return to Rajapur, Bhopal: A Prayer for Rain, Bollywood, movies, Films",
             "snippet": "Veteran actor Vineet Kumar, National School of Drama alumina has left an impression on Hindi, Telugu, Tamil, Kannada and Bhojpuri cinema as well as on televisio...",
             "url": "https://www.deccanchronicle.com/entertainment/mammad-bhai-is-an-engaging-tale-about-a-soft-hearted-gangster-vineet-kumar-895095",
-            "image_url": "https://www.deccanchronicle.com/h-upload/2024/05/22/1091465-img-20240522-wa0017.webp",
+            "image_url": "",
             "language": "en",
             "published_at": "2024-05-22T06:30:38.000000Z",
             "source": "deccanchronicle.com",
@@ -267,6 +267,22 @@
             "relevance_score": null,
             "locale": "hk"
         },
-        
+        {
+            "uuid": "b97e68ff-42a5-46a7-a95d-e3ba2d348d62",
+            "title": "Speech by Acting SJ at 8th ICAC Symposium (English only)",
+            "description": "Following is the keynote address by the Acting Secretary for Justice, Mr Cheung Kwok-kwan, at the 8th ICAC Symposium \"Charting a New Path to Combat Corruption\" ...",
+            "keywords": "",
+            "snippet": "Following is the keynote address by the Acting Secretary for Justice, Mr Cheung Kwok-kwan, at the 8th ICAC Symposium \"Charting a New Path to Combat Corruption\" ...",
+            "url": "https://www.info.gov.hk/gia/general/202405/22/P2024052200327.htm",
+            "image_url": "",
+            "language": "en",
+            "published_at": "2024-05-22T05:32:00.000000Z",
+            "source": "info.gov.hk",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": null,
+            "locale": "hk"
+        }
     ]
 }
