@@ -249,23 +249,6 @@
             ],
             "relevance_score": null,
             "locale": "hk"
-        },
-        {
-            "uuid": "b97e68ff-42a5-46a7-a95d-e3ba2d348d62",
-            "title": "Speech by Acting SJ at 8th ICAC Symposium (English only)",
-            "description": "Following is the keynote address by the Acting Secretary for Justice, Mr Cheung Kwok-kwan, at the 8th ICAC Symposium \"Charting a New Path to Combat Corruption\" ...",
-            "keywords": "",
-            "snippet": "Following is the keynote address by the Acting Secretary for Justice, Mr Cheung Kwok-kwan, at the 8th ICAC Symposium \"Charting a New Path to Combat Corruption\" ...",
-            "url": "https://www.info.gov.hk/gia/general/202405/22/P2024052200327.htm",
-            "image_url": "",
-            "language": "en",
-            "published_at": "2024-05-22T05:32:00.000000Z",
-            "source": "info.gov.hk",
-            "categories": [
-                "general"
-            ],
-            "relevance_score": null,
-            "locale": "hk"
         }
     ]
 }
