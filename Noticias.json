@@ -232,6 +232,57 @@
             ],
             "relevance_score": null,
             "locale": "hk"
+        },
+        {
+            "uuid": "ff2f19dc-6586-4319-bed8-003923151005",
+            "title": "(EDITORIAL from Korea JoongAng Daily on May 22)",
+            "description": "Let the CIO investigate the case President Yoon Suk Yeol on Tuesday vetoed a legislative...",
+            "keywords": "",
+            "snippet": "Let the CIO investigate the case\n\n\n\nPresident Yoon Suk Yeol on Tuesday vetoed a legislative motion to appoint a special prosecutor to look into the suspicion ov...",
+            "url": "https://en.yna.co.kr/view/AEN20240522000600315?input=rss&section=news",
+            "image_url": "https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_1200x800_en01.jpg",
+            "language": "en",
+            "published_at": "2024-05-22T07:11:17.000000Z",
+            "source": "yna.co.kr",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": null,
+            "locale": "kr"
+        },
+        {
+            "uuid": "385afa3c-59cb-4da2-b4bf-e1c586d30da5",
+            "title": "(EDITORIAL from Korea Times on May 22)",
+            "description": "Court favors more doctorsDialogue needed to end medical crisis immediately An appellate ...",
+            "keywords": "",
+            "snippet": "Court favors more doctors\n\nDialogue needed to end medical crisis immediately\n\n\n\nAn appellate court's decision last week strongly advanced the government's plan ...",
+            "url": "https://en.yna.co.kr/view/AEN20240522000500315?input=rss&section=news",
+            "image_url": "https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_1200x800_en01.jpg",
+            "language": "en",
+            "published_at": "2024-05-22T07:10:57.000000Z",
+            "source": "yna.co.kr",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": null,
+            "locale": "kr"
+        },
+        {
+            "uuid": "6530b306-8917-4901-b084-15d92dc88a7a",
+            "title": "(EDITORIAL from Korea Herald on May 22)",
+            "description": "Special counsel billCIO, police must be impartial in probe involving the president Presi...",
+            "keywords": "",
+            "snippet": "Special counsel bill\n\nCIO, police must be impartial in probe involving the president\n\n\n\nPresident Yoon Suk Yeol on Tuesday vetoed a special counsel bill to inve...",
+            "url": "https://en.yna.co.kr/view/AEN20240522000400315?input=rss&section=news",
+            "image_url": "https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_1200x800_en01.jpg",
+            "language": "en",
+            "published_at": "2024-05-22T07:10:34.000000Z",
+            "source": "yna.co.kr",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": null,
+            "locale": "kr"
         }
     ]
 }
