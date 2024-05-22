@@ -1,0 +1,288 @@
+{
+    "warnings": [
+        "limit is higher than your plan allows"
+    ],
+    "meta": {
+        "found": 1057426,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "4fcf55b2-55c3-42c6-83d4-27be379039ba",
+            "title": "Fallout Panel Features Christopher Nolan Interviewing brother Jonathan",
+            "description": "Emmy voters who wanted to learn more about Fallout were treated Tuesday to an interview with EP Jonathan Nolan by his sibling, Christopher.",
+            "keywords": "",
+            "snippet": "Neither used the word “bro” and there was zero talk about any sibling rivalry or late-night phone calls about their respective work woes, but Emmy voters wh...",
+            "url": "https://deadline.com/2024/05/fallout-fyc-panel-christopher-nolan-interviewing-jonathan-nolan-amazon-drama-1235926794/",
+            "image_url": "https://deadline.com/wp-content/uploads/2024/05/Screenshot-2024-05-21-at-9.43.14 PM.png?w=1024",
+            "language": "en",
+            "published_at": "2024-05-22T05:51:13.000000Z",
+            "source": "deadline.com",
+            "categories": [
+                "entertainment"
+            ],
+            "relevance_score": null,
+            "locale": "us"
+        },
+        {
+            "uuid": "446595d6-a646-40c8-b510-68befe7ffb7f",
+            "title": "Chinese citizen journalist is freed from prison after 4 years for reporting on Covid-19",
+            "description": "Chinese citizen journalist Zhang Zhan was released from prison after serving four years for charges related to reporting on the Covid-19 outbreak in Wuhan.",
+            "keywords": "",
+            "snippet": "BANGKOK — Chinese citizen journalist Zhang Zhan has been released from prison after serving four years for charges related to reporting on the Covid-19 outbre...",
+            "url": "https://www.nbcnews.com/news/world/zhang-zhan-freed-prison-china-4-years-reporting-covid-19-rcna153425",
+            "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-05/240513-zhang-zhan-mb-1113-6491e3.jpg",
+            "language": "en",
+            "published_at": "2024-05-22T05:30:36.000000Z",
+            "source": "nbcnews.com",
+            "categories": [
+                "general",
+                "politics"
+            ],
+            "relevance_score": null,
+            "locale": "us"
+        },
+        {
+            "uuid": "6d5b85c5-15c7-42f9-8483-4a3419358f0a",
+            "title": "New Covid FLiRT variants spark concerns of a summer spike",
+            "description": "New strains of Covid-19 are spreading globally, raising concerns among health professionals about a possible summer spike in cases.",
+            "keywords": "Health care industry, business news",
+            "snippet": "LONDON — New strains of Covid-19 are spreading globally, raising concerns among health professionals about a possible summer spike in cases, four-and-a-half y...",
+            "url": "https://www.cnbc.com/2024/05/22/new-covid-flirt-variants-spark-concerns-of-a-summer-spike.html",
+            "image_url": "https://image.cnbcfm.com/api/v1/image/107417063-1716200087245-gettyimages-2147826973-20240407_face_mask_001.jpeg?v=1716200130&w=1920&h=1080",
+            "language": "en",
+            "published_at": "2024-05-22T05:17:51.000000Z",
+            "source": "cnbc.com",
+            "categories": [
+                "general",
+                "business"
+            ],
+            "relevance_score": null,
+            "locale": "us"
+        },
+        {
+            "uuid": "9e8c9d8b-bfe8-4717-a720-c8c8f6abdd62",
+            "title": "Quadraro, la piazza del vecchio mercato resta nel degrado: “Pronti a raccogliere le firme”",
+            "description": "La demolizione dei banchi non è stata completata e piazza dei Tribuni resta esposta ai bivacchi. Forza Italia: \"È una ferita nel cuore del quartiere\"",
+            "keywords": "degrado, mercato, ",
+            "snippet": "In piazza dei Tribuni, a poche decine di metri dal punto in cui si è aperta la voragine, c’è uno spazio transennato. È quello che ospitava i banchi di un m...",
+            "url": "https://www.romatoday.it/zone/tuscolano/don-bosco/quadraro-ex-mercato-ferme-demolizioni-degrado.html",
+            "image_url": "https://www.romatoday.it/~media/horizontal-hi/69622075963113/il-degrado-in-piazza-dei-tribuni-2.jpg",
+            "language": "it",
+            "published_at": "2024-05-22T06:25:00.000000Z",
+            "source": "romatoday.it",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": null,
+            "locale": "it"
+        },
+        {
+            "uuid": "65669727-64aa-4a6b-9c0c-9241ba1a5b50",
+            "title": "La cura si fa col gatto: pet therapy in corsia",
+            "description": "La cura si fa col gatto: pet therapy in corsia",
+            "keywords": "",
+            "snippet": "Chiunque abbia un gatto non ha bisogno di prove scientifiche, sempre più evidenti, che le fusa rilassano non solo chi le fa ma anche chi le riceve. Ma si va de...",
+            "url": "https://www.ilgiornale.it/news/cura-si-fa-col-gatto-pet-therapy-corsia-2324620.html",
+            "image_url": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2024/03/17/1710659247-21321026-medium.jpg?_=1710659247",
+            "language": "it",
+            "published_at": "2024-05-22T06:16:46.000000Z",
+            "source": "ilgiornale.it",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": null,
+            "locale": "it"
+        },
+        {
+            "uuid": "7a281a5f-c15d-475a-b56a-2825150d2520",
+            "title": "Zhang Zhan: Chinese journalist jailed for Covid coverage released",
+            "description": "Chinese citizen journalist Zhang Zhan has been released from prison after serving four years for her coverage of Beijing's Covid-19 response.",
+            "keywords": "",
+            "snippet": "Chinese citizen journalist Zhang Zhan has been released from prison after serving four years for her coverage of Beijing’s Covid-19 response, according to a v...",
+            "url": "https://hongkongfp.com/2024/05/22/chinese-journalist-zhang-zhan-released-after-4-years-jail-over-coverage-of-covid-19/",
+            "image_url": "https://hongkongfp.com/wp-content/uploads/2021/11/Zhang-Zhan-may-die.jpg",
+            "language": "en",
+            "published_at": "2024-05-22T06:12:14.000000Z",
+            "source": "hongkongfp.com",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": null,
+            "locale": "hk"
+        },
+        {
+            "uuid": "10f228c2-b32c-4cd8-83e1-ad0acde2c36a",
+            "title": "UGC NET 2024 Correction Window Starts: How To Make Edits; Last Date and Details",
+            "description": "The UGC NET 2024 correction window has opened on the official website - ugcnet.nta.ac.in. Read the simple steps here to make changes to your application form on...",
+            "keywords": "UGC NET 2024, UGC NET 2024 correction window, UGC NET 2024 correction window dates, UGC NET 2024 application correction, UGC NET 2024 application correction window, UGC NET 2024 application correction steps, UGC NET, UGC NET website, ugcnet.nta.ac.in, UGC NET 2024 exam date",
+            "snippet": "UGC NET 2024 Correction Window: The National Testing Agency (NTA) has officially opened the UGC NET 2024 correction window on 21 May, for all interested candida...",
+            "url": "https://www.thequint.com/news/education/ugc-net-2024-correction-window-open-how-to-make-changes-check-the-deadline-and-details",
+            "image_url": "https://images.thequint.com/thequint%2F2024-05%2F2ff95553-dca6-4458-a46d-6e71f92174d3%2FiStock_1247171756.jpg",
+            "language": "en",
+            "published_at": "2024-05-22T06:27:33.000000Z",
+            "source": "thequint.com",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": null,
+            "locale": "in"
+        },
+        {
+            "uuid": "e63c2e60-d1df-47ed-ac94-3939f8544f19",
+            "title": "Beyond the Banking Mogul, Narayanan Vaghul Was a Mentor and a Visionary",
+            "description": "My own understanding of Vaghul’s seminar contributions to India’s financial sector was drawn from a reading of his 2023 book called Reflections, which he wr...",
+            "keywords": "Narayanan Vaghul, ICICI, Narayanan Vaghul  death, CRISIL",
+            "snippet": "Legendary Indian banker Narayanan Vaghul ’s recent passing away drew numerous obituaries and commentaries across platforms from people in the financial and co...",
+            "url": "https://www.thequint.com/opinion/narayanan-vaghul-banking-industry-india-leader-obituary",
+            "image_url": "https://images.thequint.com/thequint%2F2024-05%2Fe4b230d0-f38a-4fba-b379-a83ee1d55d61%2Fhero_image_SP.jpg",
+            "language": "en",
+            "published_at": "2024-05-22T06:27:33.000000Z",
+            "source": "thequint.com",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": null,
+            "locale": "in"
+        },
+        {
+            "uuid": "8b3022a2-c892-42f7-9ca8-c6e107d8c49d",
+            "title": "Old Video Shared as Israelis Dancing After Iranian President’s Helicopter Crash",
+            "description": "Fact-Check | An old and unrelated video is being shared with a misleading claim stating that  it shows Israeli soldiers celebrating and dancing in Gaza after Ir...",
+            "keywords": "WebQoof, President Ebrahim Raisi's helicopter crash, Iranian President Ebrahim Raisi, Ebrahim Raisi, Ebrahim Raisi's helicopter crash, Ebrahim Raisi death, Ebrahim Raisi helicopter crash, Israeli soldiers celebrating and dancing in Gaza, Israeli soldiers, Israeli soldiers dancing Gaza, Israel, Israeli soldiers celebrating Iranian President death, viral video, fact check",
+            "snippet": "A video showing some people dancing is being shared to claim that it shows Israeli soldiers celebrating and dancing in Gaza after Iranian President Ebrahim Rais...",
+            "url": "https://www.thequint.com/news/webqoof/israeli-soldiers-dancing-gaza-after-iranian-president-ebrahim-raisi-helicopter-crash-viral-video-fact-check",
+            "image_url": "https://images.thequint.com/thequint%2F2024-05%2F7e286a1e-3b35-4f96-9ed0-f7281e38880f%2FAbhishek_WQ_3___2024_05_22T102222_313.jpg",
+            "language": "en",
+            "published_at": "2024-05-22T06:27:33.000000Z",
+            "source": "thequint.com",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": null,
+            "locale": "in"
+        },
+        {
+            "uuid": "18c25c21-f364-4174-b1cf-a98cd198873e",
+            "title": "Dubai mining firm mulls Argentina lithium production",
+            "description": "The company is still determining which extraction method to use, but will likely begin with a mix of direct lithium extraction and evaporation pools.",
+            "keywords": "",
+            "snippet": "Image credit: jasonbennee/ Getty Images\n\nDubai-based United Mining Projects Corporation (UMPC) plans to begin producing battery-grade lithium in Argentina next ...",
+            "url": "https://gulfbusiness.com/dubai-mining-firm-enters-argentina-lithium-market/",
+            "image_url": "https://gulfbusiness.com/wp-content/uploads/2024/05/Copy-of-930-x-620-pix-web-size-57.png",
+            "language": "en",
+            "published_at": "2024-05-22T06:31:54.000000Z",
+            "source": "gulfbusiness.com",
+            "categories": [
+                "business"
+            ],
+            "relevance_score": null,
+            "locale": "sa"
+        },
+        {
+            "uuid": "83a7ff2e-2743-4538-9676-127a601c7b56",
+            "title": "Sheikh Hamdan announces AI initiative: 1 million engineers to be trained",
+            "description": "The programme includes training courses to upskill individuals in AI and prompt engineering along with offering accredited certifications",
+            "keywords": "",
+            "snippet": "Image credit: WAM\n\nDubai government announced the launch of the world’s first and largest AI prompt engineering training initiative on Tuesday.\n\nSheikh Hamdan...",
+            "url": "https://gulfbusiness.com/sheikh-hamdan-ai-program-1-million-engineers/",
+            "image_url": "https://gulfbusiness.com/wp-content/uploads/2024/05/Sheikh-Hamdan-with-Omar-Sultan-Al-Olama-WAM.jpeg",
+            "language": "en",
+            "published_at": "2024-05-22T06:31:54.000000Z",
+            "source": "gulfbusiness.com",
+            "categories": [
+                "business"
+            ],
+            "relevance_score": null,
+            "locale": "sa"
+        },
+        {
+            "uuid": "badea2ab-f9ec-4988-bc04-93496327d65c",
+            "title": "Mammad Bhai is an engaging tale about a soft-hearted gangster: Vineet Kumar",
+            "description": "Veteran actor Vineet Kumar, National School of Drama alumina has left an impression on Hindi, Telugu, Tamil, Kannada and Bhojpuri cinema as well as on televisio...",
+            "keywords": "Mammad Bhai, Veteran Actor, Vineet Kumar, National School of Drama, Hindi cinema, Telugu cinema, Tamil cinema, Kannada cinema, Bhojpuri cinema, Television, Television Shows. Hollywood films, Return to Rajapur, Bhopal: A Prayer for Rain, Bollywood, movies, Films",
+            "snippet": "Veteran actor Vineet Kumar, National School of Drama alumina has left an impression on Hindi, Telugu, Tamil, Kannada and Bhojpuri cinema as well as on televisio...",
+            "url": "https://www.deccanchronicle.com/entertainment/mammad-bhai-is-an-engaging-tale-about-a-soft-hearted-gangster-vineet-kumar-895095",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2024/05/22/1091465-img-20240522-wa0017.webp",
+            "language": "en",
+            "published_at": "2024-05-22T06:30:38.000000Z",
+            "source": "deccanchronicle.com",
+            "categories": [
+                "general",
+                "politics"
+            ],
+            "relevance_score": null,
+            "locale": "in"
+        },
+        {
+            "uuid": "1b832f43-27b1-49dd-99a4-f263fc02f0d2",
+            "title": "Emaar unveils The Heights Country Club & Wellness",
+            "description": "According to Emaar, the residential offerings within The Heights Country Club & Wellness include townhouses and semi-attached villas",
+            "keywords": "",
+            "snippet": "Images: Emaar\n\nEmaar Properties has unveiled its latest offering, The Heights Country Club & Wellness.\n\nSpanning 81 million square feet and boasting a developme...",
+            "url": "https://gulfbusiness.com/emaar-unveils-dh55bn-the-heights-club-wellness/",
+            "image_url": "https://gulfbusiness.com/wp-content/uploads/2024/05/Emaar-unveils-The-Heights-Club.jpg",
+            "language": "en",
+            "published_at": "2024-05-22T05:17:44.000000Z",
+            "source": "gulfbusiness.com",
+            "categories": [
+                "business"
+            ],
+            "relevance_score": null,
+            "locale": "sa"
+        },
+        {
+            "uuid": "7a281a5f-c15d-475a-b56a-2825150d2520",
+            "title": "Zhang Zhan: Chinese journalist jailed for Covid coverage released",
+            "description": "Chinese citizen journalist Zhang Zhan has been released from prison after serving four years for her coverage of Beijing's Covid-19 response.",
+            "keywords": "",
+            "snippet": "Chinese citizen journalist Zhang Zhan has been released from prison after serving four years for her coverage of Beijing’s Covid-19 response, according to a v...",
+            "url": "https://hongkongfp.com/2024/05/22/chinese-journalist-zhang-zhan-released-after-4-years-jail-over-coverage-of-covid-19/",
+            "image_url": "https://hongkongfp.com/wp-content/uploads/2021/11/Zhang-Zhan-may-die.jpg",
+            "language": "en",
+            "published_at": "2024-05-22T06:12:14.000000Z",
+            "source": "hongkongfp.com",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": null,
+            "locale": "hk"
+        },
+        {
+            "uuid": "4b1eb06f-85d0-48a8-b139-119a04b9296d",
+            "title": "《再現梅窩》揭開「衰落」論述中的「繁榮」",
+            "description": "有沙灘、有牛，「靜靜地」——這是很多人對梅窩的印象。當地村民也會說：「梅窩過去很旺，很繁榮，後來衰落了。」?...",
+            "keywords": "",
+            "snippet": "",
+            "url": "https://www.inmediahk.net/node/%E4%BF%9D%E8%82%B2/%E3%80%8A%E5%86%8D%E7%8F%BE%E6%A2%85%E7%AA%A9%E3%80%8B%E6%8F%AD%E9%96%8B%E3%80%8C%E8%A1%B0%E8%90%BD%E3%80%8D%E8%AB%96%E8%BF%B0%E4%B8%AD%E7%9A%84%E3%80%8C%E7%B9%81%E6%A6%AE%E3%80%8D",
+            "image_url": "https://www.inmediahk.net/files/column_images/202405225.png",
+            "language": "zh",
+            "published_at": "2024-05-22T06:00:08.000000Z",
+            "source": "inmediahk.net",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": null,
+            "locale": "hk"
+        },
+        {
+            "uuid": "b97e68ff-42a5-46a7-a95d-e3ba2d348d62",
+            "title": "Speech by Acting SJ at 8th ICAC Symposium (English only)",
+            "description": "Following is the keynote address by the Acting Secretary for Justice, Mr Cheung Kwok-kwan, at the 8th ICAC Symposium \"Charting a New Path to Combat Corruption\" ...",
+            "keywords": "",
+            "snippet": "Following is the keynote address by the Acting Secretary for Justice, Mr Cheung Kwok-kwan, at the 8th ICAC Symposium \"Charting a New Path to Combat Corruption\" ...",
+            "url": "https://www.info.gov.hk/gia/general/202405/22/P2024052200327.htm",
+            "image_url": "",
+            "language": "en",
+            "published_at": "2024-05-22T05:32:00.000000Z",
+            "source": "info.gov.hk",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": null,
+            "locale": "hk"
+        }
+    ]
+}
