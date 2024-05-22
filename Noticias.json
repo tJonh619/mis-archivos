@@ -251,21 +251,22 @@
             "locale": "hk"
         },
         {
-            "uuid": "b97e68ff-42a5-46a7-a95d-e3ba2d348d62",
-            "title": "Speech by Acting SJ at 8th ICAC Symposium (English only)",
-            "description": "Following is the keynote address by the Acting Secretary for Justice, Mr Cheung Kwok-kwan, at the 8th ICAC Symposium \"Charting a New Path to Combat Corruption\" ...",
+            "uuid": "4b1eb06f-85d0-48a8-b139-119a04b9296d",
+            "title": "《再現梅窩》揭開「衰落」論述中的「繁榮」",
+            "description": "有沙灘、有牛，「靜靜地」——這是很多人對梅窩的印象。當地村民也會說：「梅窩過去很旺，很繁榮，後來衰落了。」?...",
             "keywords": "",
-            "snippet": "Following is the keynote address by the Acting Secretary for Justice, Mr Cheung Kwok-kwan, at the 8th ICAC Symposium \"Charting a New Path to Combat Corruption\" ...",
-            "url": "https://www.info.gov.hk/gia/general/202405/22/P2024052200327.htm",
-            "image_url": "",
-            "language": "en",
-            "published_at": "2024-05-22T05:32:00.000000Z",
-            "source": "info.gov.hk",
+            "snippet": "",
+            "url": "https://www.inmediahk.net/node/%E4%BF%9D%E8%82%B2/%E3%80%8A%E5%86%8D%E7%8F%BE%E6%A2%85%E7%AA%A9%E3%80%8B%E6%8F%AD%E9%96%8B%E3%80%8C%E8%A1%B0%E8%90%BD%E3%80%8D%E8%AB%96%E8%BF%B0%E4%B8%AD%E7%9A%84%E3%80%8C%E7%B9%81%E6%A6%AE%E3%80%8D",
+            "image_url": "https://www.inmediahk.net/files/column_images/202405225.png",
+            "language": "zh",
+            "published_at": "2024-05-22T06:00:08.000000Z",
+            "source": "inmediahk.net",
             "categories": [
                 "general"
             ],
             "relevance_score": null,
             "locale": "hk"
-        }
+        },
+        
     ]
 }
