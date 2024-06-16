@@ -1,0 +1,46 @@
+[
+    {
+        "gradoEnCurso": [],
+        "colegio": {
+            "matricula": [],
+            "estudiante": [
+                {
+                    "matricula": [],
+                    "calificacion": [],
+                    "id": 1,
+                    "codigoEstudiante": "JT1234",
+                    "nombres": "Jonathan Moises",
+                    "apellidos": "Torrez Umaña",
+                    "sexo": "Masculino",
+                    "direccion": "jadnfhjans",
+                    "activo": 1,
+                    "fechaModificacion": "2000-10-12T00:00:00",
+                    "colegioId": 1
+                }
+            ],
+            "maestro": [],
+            "seccion": [],
+            "usuario": [],
+            "id": 1,
+            "codigoColegio": "afbahdbsa",
+            "nombre": "Fidel Coloma",
+            "direccion": "jadnfhjans",
+            "telefono": "78371641",
+            "correo": "kmadnsfnashj",
+            "activo": 1,
+            "fechaModificacion": "2000-10-12T00:00:00"
+        },
+        "id": 1,
+        "codigoMaestro": "JT1234",
+        "cedula": "001-251000-1027D",
+        "nombres": "Jonathan Moises",
+        "apellidos": "Torrez Umaña",
+        "sexo": "Masculino",
+        "direccion": "jadnfhjans",
+        "correo": "tjonh619@gmail.com",
+        "celular": "57979499",
+        "activo": 1,
+        "fechaModificacion": "2024-10-12T00:00:00",
+        "colegioId": 1
+    }
+]
